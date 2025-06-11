@@ -42,7 +42,7 @@ dkill() {
 
 # Shows logs for docker container with supplied offset id.
 #
-# Usage: dogs OFFSET_ID     
+# Usage: dlogs OFFSET_ID     
 #
 #        where OFFSET_ID comes from the line number from
 #        output of first function in this file (i.e., dps)
